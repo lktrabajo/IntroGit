@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    text-transform: uppercase;
+    padding: 7px;
+}
+
+p{
+    text-align: justify;
+    color: darkgreen;
+}
